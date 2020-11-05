@@ -1,1 +1,1 @@
-murre is best
+murre is bestcommit 5cff0aa65fcd3cab4e66ecb2c6f4943ad1ee8d36 (HEAD -> NEWB, origin/main, origin/NEWB, main)Author: MuharemZ <muharem.z10@hotmail.com>Date:   Thu Nov 5 01:27:16 2020 +0100    git logcommit d03a7f7db53844ad7668565af774fb1116bd8ca2Author: MuharemZ <muharem.z10@hotmail.com>Date:   Wed Nov 4 23:52:31 2020 +0100    First commit
